@@ -1,4 +1,6 @@
 
 .border{ 
-        black 1px solid
+        black 1px solid;
+	width : 100%;
+	height : 50%;
 }
